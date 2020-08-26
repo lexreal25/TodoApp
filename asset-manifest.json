@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lexreal25/TodoApp.git/static/css/main.b2845c96.chunk.css",
+    "main.js": "/lexreal25/TodoApp.git/static/js/main.2115de3e.chunk.js",
+    "main.js.map": "/lexreal25/TodoApp.git/static/js/main.2115de3e.chunk.js.map",
+    "runtime-main.js": "/lexreal25/TodoApp.git/static/js/runtime-main.aabb3656.js",
+    "runtime-main.js.map": "/lexreal25/TodoApp.git/static/js/runtime-main.aabb3656.js.map",
+    "static/js/2.b731b154.chunk.js": "/lexreal25/TodoApp.git/static/js/2.b731b154.chunk.js",
+    "static/js/2.b731b154.chunk.js.map": "/lexreal25/TodoApp.git/static/js/2.b731b154.chunk.js.map",
+    "index.html": "/lexreal25/TodoApp.git/index.html",
+    "precache-manifest.bfead62924bb787a91fc310e9ffcb6a5.js": "/lexreal25/TodoApp.git/precache-manifest.bfead62924bb787a91fc310e9ffcb6a5.js",
+    "service-worker.js": "/lexreal25/TodoApp.git/service-worker.js",
+    "static/css/main.b2845c96.chunk.css.map": "/lexreal25/TodoApp.git/static/css/main.b2845c96.chunk.css.map",
+    "static/js/2.b731b154.chunk.js.LICENSE.txt": "/lexreal25/TodoApp.git/static/js/2.b731b154.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aabb3656.js",
+    "static/js/2.b731b154.chunk.js",
+    "static/css/main.b2845c96.chunk.css",
+    "static/js/main.2115de3e.chunk.js"
+  ]
+}
